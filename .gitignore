@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UploadTracking.Web/appsettings.json
+/UploadTracking.DataModel/appsettings.json
+/.vs/UploadTracking/v15/Server/sqlite3/db.lock
+/.vs
+/TestConsoleApp
+/UploadTracking.BLL/bin
+/UploadTracking.BLL/obj
+/UploadTracking.DataModel/bin
+/UploadTracking.DataModel/obj
+/UploadTracking.Helpers/bin
+/UploadTracking.Helpers/obj
+/UploadTracking.Models/bin
+/UploadTracking.Models/obj
+/UploadTracking.Repository/bin
+/UploadTracking.Repository/obj
+/UploadTracking.Web/bin
+/UploadTracking.Web/obj
+/UploadTracking.Web/Properties/PublishProfiles
+/UploadTracking.Web/Properties
